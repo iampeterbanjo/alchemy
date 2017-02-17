@@ -1,0 +1,34 @@
+LOG:  database system was shut down at 2017-02-16 22:05:17 GMT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+LOG:  autovacuum launcher shutting down
+LOG:  received smart shutdown request
+LOG:  received SIGHUP, reloading configuration files
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2017-02-17 08:21:23 GMT
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist
+FATAL:  database "persona_dev" does not exist

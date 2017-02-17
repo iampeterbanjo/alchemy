@@ -1,0 +1,174 @@
+<section id="top" class="ui inverted vertical masthead center aligned segment">
+  <div class="ui container">
+    <div class="ui large secondary inverted pointing menu">
+      <a class="sidebar--toggle toc item mobile only">
+        <i class="sidebar icon"></i>
+      </a>
+
+      <%= render Persona.SharedView, "nav_links.html" %>
+    </div>
+    <!-- /div -->
+
+    <div class="ui text container">
+      <h1 class="ui inverted header">Peter Banjo <br><small>Web Developer</small></h1>
+
+      <div class="ui stackable column grid">
+        <ul class="three column row">
+          <li class="column">
+            <a class="fluid ui button google plus" target="_blank" href="https://stackoverflow.com/users/95055/peter">
+              <i class="icon stack overflow" aria-hidden="true"></i>
+              StackOverflow
+            </a>
+          </li>
+          <li class="column">
+            <a class="fluid ui button" target="_blank" href="https://github.com/iampeterbanjo">
+              <i class="icon github" aria-hidden="true"></i>
+              Github
+            </a>
+          </li>
+          <li class="column">
+            <a class="fluid ui button linkedin" target="_blank" href="https://uk.linkedin.com/in/peterbanjo">
+              <i class="icon linkedin" aria-hidden="true"></i>
+              LinkedIn
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- .column.grid -->
+    </div>
+  </div>
+</section>
+
+<div class="ui vertical stripe segment">
+  <div class="ui grid text container stackable">
+    <section class="row" id="about">
+      <div class="centered wide column">
+        <p>I love learning and solving problems. I've built corporate sites, eCommerce front-ends, hybrid mobile apps, WordPress themes and HTML emails by listening to what design, development and business approaches have to say about making software personable for the people who build and use it.</p>
+
+        <p>I have broad personal experiences that facilitate team fit and bring fresh perspectives to familiar challenges.</p>
+      </div>
+    </section>
+    <!-- .row -->
+  </div>
+  <!-- /.ui.container -->
+
+  <section class="ui container" id="projects">
+    <h1 class="ui header">Projects <small>(2015 - 2016)</small></h1>
+
+    <div class="ui divided items">
+      <div class="item">
+        <div class="ui small image">
+          <img src="https://drive.google.com/uc?id=0B08LUR8Au8kpVGJtSzlVVFZ6am8" alt="" class="ui medium left floated image transition visible">
+        </div>
+        <!-- /.ui.small.image -->
+        <div class="content">
+          <div class="meta">
+            <h2 class="header">Fujitsu: New pace of change</h2>
+          </div>
+
+          <p class="description">
+            Corporate infographic site
+          </p>
+
+          <ul class="extra inline">
+            <li class="ui label">Full-page scrolling</li>
+            <li class="ui label">Animations</li>
+          </ul>
+
+          <a href="http://newpaceofchange.com/" class="positive ui right labeled icon button project--link" target="_blank">
+            <i class="external icon"></i>
+            Visit
+          </a>
+        </div>
+        <!-- /.content -->
+      </div>
+
+      <div class="item">
+        <div class="ui small image">
+          <img src="https://drive.google.com/uc?id=0B08LUR8Au8kpaXVDX0hqQTF4R1U" alt="" class="ui medium left floated image transition visible">
+        </div>
+        <!-- /.ui.small.image -->
+        <div class="content">
+          <div class="meta">
+            <h2 class="header">DirectionGroup</h2>
+          </div>
+
+          <p class="description">
+            Digital agency re-brand
+          </p>
+
+          <ul class="extra inline">
+            <li class="ui label">Bootstrap</li>
+            <li class="ui label">GSAP library</li>
+            <li class="ui label">Animations</li>
+          </ul>
+
+          <a href="http://www.directiongroup.com/" class="positive ui right labeled icon button project--link" target="_blank">
+            <i class="external icon"></i>
+            Visit
+          </a>
+        </div>
+        <!-- /.content -->
+      </div>
+
+      <div class="item">
+        <div class="ui small image">
+          <img src="https://drive.google.com/uc?id=0B08LUR8Au8kpeVVWSWdmb091NDQ" alt="" class="ui medium left floated image transition visible">
+        </div>
+        <!-- /.ui.small.image -->
+        <div class="content">
+          <div class="meta">
+            <h2 class="header">Fujitsu: Ambassador hub</h2>
+          </div>
+
+          <p class="description">
+            Corporate social hub
+          </p>
+
+          <ul class="extra inline">
+            <li class="ui label">Bootstrap</li>
+            <li class="ui label">Animations</li>
+          </ul>
+
+          <a href="http://www.educationambassador.co.uk/" class="positive ui right labeled icon button project--link" target="_blank">
+            <i class="external icon"></i>
+            Visit
+          </a>
+        </div>
+        <!-- /.content -->
+      </div>
+
+      <div class="item">
+        <div class="ui small image">
+          <img src="https://drive.google.com/uc?id=0B08LUR8Au8kpRUNBNFhrQy1paXc" alt="" class="ui medium left floated image transition visible">
+        </div>
+        <!-- /.ui.small.image -->
+        <div class="content">
+          <div class="meta">
+            <h2 class="header">GBG
+             Plc</h2>
+          </div>
+
+          <p class="description">
+            Corporate re-brand
+          </p>
+
+          <ul class="extra inline">
+            <li class="ui label">Bootstrap</li>
+            <li class="ui label">Umbraco CMS</li>
+            <li class="ui label">Animations</li>
+          </ul>
+
+          <a href="https://www.gbgplc.com/uk/" class="positive ui right labeled icon button project--link" target="_blank">
+            <i class="external icon"></i>
+            Visit
+          </a>
+        </div>
+        <!-- /.content -->
+      </div>
+    </div>
+    <!-- /.ui.divided.items -->
+  </section>
+  <!-- /.ui.container -->
+</div>
+<!-- /.vertical.strip.segment -->

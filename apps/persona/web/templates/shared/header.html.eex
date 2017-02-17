@@ -1,0 +1,5 @@
+<div class="ui vertical inverted sidebar menu left sidebar--menu">
+  <nav class="ui container">
+    <%= render Persona.SharedView, "nav_links.html" %>
+  </nav>
+</div>

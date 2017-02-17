@@ -1,0 +1,1261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"notebook-48.png\tw:48 h:48"
+			],
+			[
+				"get",
+				"getChecked"
+			],
+			[
+				"Service",
+				"ServiceView"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"Serv",
+				"ServiceView"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"switch",
+				"switch-tabs"
+			],
+			[
+				"list",
+				"listTabs"
+			],
+			[
+				"ext",
+				"extensions.js"
+			],
+			[
+				"func",
+				"function without name"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"point",
+				"pointer-events"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"sid",
+				"sidebarToggle"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"stac",
+				"stackable"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"handl",
+				"HandleFunc\t*mux.Route ƒ"
+			],
+			[
+				"for",
+				"formatter\t*render.Render ν"
+			],
+			[
+				"imp",
+				"import\timport (...) ʂ"
+			],
+			[
+				"fir",
+				"firstname                      FirstName                                ν"
+			],
+			[
+				"fn",
+				"fnContents                     []byte                                   ν"
+			],
+			[
+				"Prin",
+				"Println\tn int, err error ƒ"
+			],
+			[
+				"fnC",
+				"fnContents\t[]byte ν"
+			],
+			[
+				"Mars",
+				"MarshalIndent\t[]byte, error ƒ"
+			],
+			[
+				"last",
+				"lastname\tlastname ν"
+			],
+			[
+				"Pr",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"Print",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"boot",
+				"bootstrap                                                               ρ"
+			],
+			[
+				"Respons",
+				"ResponseWriter\tinterface ¡"
+			],
+			[
+				"res",
+				"responseJson\t ν"
+			],
+			[
+				"js",
+				"jsonString\t ν"
+			],
+			[
+				"Han",
+				"HandleFunc\t*mux.Route ƒ"
+			],
+			[
+				"Path",
+				"PathPrefix\t*mux.Route ƒ"
+			],
+			[
+				"Ha",
+				"Handle\t ƒ"
+			],
+			[
+				"Fprn",
+				"Fprintf\tn int, err error ƒ"
+			],
+			[
+				"Fpi",
+				"Fprintf                        func(w io.Writer, format string, a ...in ƒ"
+			],
+			[
+				"Form",
+				"FormValue\tstring ƒ"
+			],
+			[
+				"FP",
+				"Fprintf\tn int, err error ƒ"
+			],
+			[
+				"Hand",
+				"HandleFunc\t ƒ"
+			],
+			[
+				"Pi",
+				"Printf                         func(format string, a ...interface{}) (n ƒ"
+			],
+			[
+				"pet",
+				"petstorelist\tPetStoreList ν"
+			],
+			[
+				"P",
+				"Printf\tn int, err error ƒ"
+			],
+			[
+				"Un",
+				"UnixNano\tint64 ƒ"
+			],
+			[
+				"pr",
+				"Printf                         func(format string, a ...interface{}) (n ƒ"
+			],
+			[
+				"Mount",
+				"MountSwaggerController\t ƒ"
+			],
+			[
+				"New",
+				"NewSwaggerController\t*SwaggerController ƒ"
+			],
+			[
+				"htt",
+				"httptest\t package ρ"
+			],
+			[
+				"float",
+				"float64\tbuilt-in ʈ"
+			],
+			[
+				"App",
+				"AppendBulk\t ƒ"
+			],
+			[
+				"Sprint",
+				"Sprintf\tstring ƒ"
+			],
+			[
+				"flo",
+				"float64\tbuilt-in ʈ"
+			],
+			[
+				"Pin",
+				"Println                        func(a ...interface{}) (n int, err error ƒ"
+			],
+			[
+				"def",
+				"defense\tint ν"
+			],
+			[
+				"can",
+				"canvasWidth"
+			],
+			[
+				"re",
+				"reject"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"creat",
+				"createMosaic"
+			],
+			[
+				"ge",
+				"getBase64"
+			],
+			[
+				"im",
+				"img64"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"dro",
+				"drawRowMosaic"
+			],
+			[
+				"dr",
+				"drawOnClick"
+			],
+			[
+				"draw",
+				"drawColumn"
+			],
+			[
+				"la",
+				"layerY"
+			],
+			[
+				"he",
+				"hexes"
+			],
+			[
+				"getRow",
+				"getRowMosaic"
+			],
+			[
+				"row",
+				"rowTiles"
+			],
+			[
+				"img",
+				"img64"
+			],
+			[
+				"tile",
+				"tileHex"
+			],
+			[
+				"pix",
+				"pixelToRGB"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"drow",
+				"drawColumn"
+			],
+			[
+				"ne",
+				"nextColumn"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"getTi",
+				"getTile"
+			],
+			[
+				"geti",
+				"getImageData"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"m",
+				"mosaic"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"co",
+				"colour"
+			],
+			[
+				"set",
+				"setBackgroundColor"
+			],
+			[
+				"til",
+				"tilePixel"
+			],
+			[
+				"new",
+				"newTotal"
+			],
+			[
+				"tog",
+				"toggleActiveSiblings"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"Todo",
+				"TodoList"
+			],
+			[
+				"b",
+				"bin"
+			],
+			[
+				"l",
+				"lite-server"
+			],
+			[
+				"nod",
+				"node_modules"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"loa",
+				"loadNpmTasks"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"or",
+				"order-create-screen.html"
+			],
+			[
+				"S",
+				"String"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Ignore Warnings"
+				],
+				[
+					"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+					"Run - Ignore Warnings"
+				]
+			],
+			[
+				"Packages/Elm Language Support/Build Systems/Elm Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pr",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"build err",
+				"Highlight Build Errors: Show build errors"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"icts",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"convert to s",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packag sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"matchi",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"git  ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git quict",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"htmlprett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"htmr",
+				"HTMLPrettify"
+			],
+			[
+				"html prettiy sett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"html prettif ",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"package set",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings - Default"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install them",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colosu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"js hint",
+				"JSHint"
+			],
+			[
+				"preferenc",
+				"Preferences: Settings - User"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"elixir bob_test.exs",
+			"go test",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/iampeterbanjo/data/programs/elixir/pragprog-programming-phoenix/exercises/rumbl/config/dev.exs",
+		"/media/iampeterbanjo/data/programs/elixir/pragprog-programming-phoenix/exercises/hello/web/router.ex",
+		"/media/iampeterbanjo/data/programs/elixir/pragprog-programming-phoenix/exercises/hello/web/controllers/hello_controller.ex",
+		"/media/iampeterbanjo/data/programs/elixir/pragprog-programming-phoenix/exercises/hello/web/views/hello_view.ex",
+		"/media/iampeterbanjo/data/programs/elixir/pragprog-programming-phoenix/exercises/hello/web/templates/hello/world.html.eex",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/Elm Language Support.sublime-settings",
+		"/media/iampeterbanjo/data/projects/knowthen/elm/test.elm",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/.eslintrc.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/main.js",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/file.js",
+		"/media/iampeterbanjo/data/github/webextensions-examples/selection-to-clipboard/README.md",
+		"/media/iampeterbanjo/data/github/webextensions-examples/selection-to-clipboard/manifest.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/manifest.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/README.md",
+		"/media/iampeterbanjo/data/github/webextensions-examples/eslint-example/package.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/commands/manifest.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/list-extensions/manifest.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/list-extensions/extensions.html",
+		"/media/iampeterbanjo/data/github/webextensions-examples/list-extensions/extensions.js",
+		"/media/iampeterbanjo/data/github/webextensions-examples/list-extensions/background.js",
+		"/media/iampeterbanjo/data/github/webextensions-examples/list-addons/manifest.json",
+		"/media/iampeterbanjo/data/github/webextensions-examples/commands/background.js",
+		"/media/iampeterbanjo/data/projects/freecodecamp/README.md",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/golang.sublime-settings",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/iampeterbanjo/.jsbeautifyrc",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/media/iampeterbanjo/data/projects/lib/bin/docker-gvt",
+		"/media/iampeterbanjo/data/projects/golang/src/api-foundations/bootstrap/json_encode.go",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/GoTags/README.md",
+		"/media/iampeterbanjo/data/projects/golang/src/cd",
+		"/media/iampeterbanjo/data/projects/golang/src/api-foundations/cd",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/media/iampeterbanjo/data/projects/golang/src/go-helloworld/wercker-build",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-primer/npcs/types.go",
+		"/media/iampeterbanjo/data/projects/golang/src/go-helloworld/wercker.yml",
+		"/media/iampeterbanjo/data/projects/golang/src/gogo/main.go",
+		"/media/iampeterbanjo/data/projects/golang/src/gogo/server.go",
+		"/media/iampeterbanjo/data/projects/golang/src/gogo/apiary.apib",
+		"/media/iampeterbanjo/data/projects/golang/src/bladeworks/wercker.yml",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-primer/custom-package-consumer.go",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-primer/npcs/npcs.go",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-primer/npcs/custom-package-consumer.go",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-package-consumer.go",
+		"/media/iampeterbanjo/data/projects/golang/src/cloud-native-go/go-structs.go",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/media/iampeterbanjo/data/projects/mosaic/mosaic.html",
+		"/media/iampeterbanjo/data/projects/canvas-colour/index.html",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/media/iampeterbanjo/data/projects/mosaic/server.js",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/WakaTime.sublime-settings",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/_orders.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/index.html",
+		"/media/iampeterbanjo/data/projects/marionette-guides/README.md",
+		"/media/iampeterbanjo/data/projects/marionette-guides/app/templates/todolist.html",
+		"/media/iampeterbanjo/data/projects/marionette-guides/package.json",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/Gruntfile.js",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/_buttons.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/lib/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/scripts/constants/endpoint.js",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/main.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/_variables.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/roboto/_variables.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/_forms.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/mixins/responsive.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/stylesheets/partials/variables.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/sass/main.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/styles/style.scss",
+		"/home/iampeterbanjo/vagrant/aliabbas/rms_frontend/RMS/lib/angular/bower.json",
+		"/home/iampeterbanjo/Desktop/404-response.json",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
+		"/home/iampeterbanjo/.config/sublime-text-3/Installed Packages/Theme - Flatland.sublime-package_FILES/Flatland Dark.tmTheme",
+		"/home/iampeterbanjo/.config/sublime-text-3/Installed Packages/Theme - Flatland.sublime-package_FILES/Flatland Dark.sublime-theme",
+		"/media/iampeterbanjo/data/clients/aliabbas/rms_frontend/RMS/index.html",
+		"/media/iampeterbanjo/data/clients/aliabbas/rms_frontend/RMS/scripts/controllers/OrderTakingScreenController.js",
+		"/media/iampeterbanjo/data/clients/aliabbas/rms_frontend/RMS/scripts/main.js",
+		"/media/iampeterbanjo/data/clients/aliabbas/rms_frontend/RMS/scripts/controllers/OrderCreateScreenController.js",
+		"/media/iampeterbanjo/data/clients/aliabbas/rms_frontend/RMS/scripts/partials/order-create-screen.html",
+		"/home/iampeterbanjo/exercism/go/leap/leap.go",
+		"/media/iampeterbanjo/data/projects/workaholic/ambassador-hub-21180/www/styleguide.html",
+		"/media/iampeterbanjo/data/projects/Github/books/api-foundations/shell/common.sh",
+		"/media/iampeterbanjo/data/projects/lib/bin/docker-go.sh",
+		"/media/iampeterbanjo/data/projects/lib/bin/docker-gvt.sh",
+		"/media/iampeterbanjo/data/projects/Github/books/api-foundations/chapter1/run",
+		"/home/iampeterbanjo/exercism/elixir/bob/bob_test.exs",
+		"/home/iampeterbanjo/exercism/elixir/bob/bob.exs",
+		"/media/iampeterbanjo/data/projects/lib/bin/docker-go",
+		"/media/iampeterbanjo/data/projects/lib/bin/docker-redis",
+		"/home/iampeterbanjo/exercism/elixir/leap/leap_test.exs",
+		"/home/iampeterbanjo/exercism/elixir/leap/leap.exs",
+		"/home/iampeterbanjo/exercism/go/leap/leap_test.go",
+		"/home/iampeterbanjo/exercism/go/hello-world/hello_world.go",
+		"/home/iampeterbanjo/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/iampeterbanjo/exercism/elixir/hello-world/hello_world_test.exs",
+		"/home/iampeterbanjo/exercism/elixir/hello-world/hello_world.exs"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"/media/iampeterbanjo/data/programs/redfour/physics"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"junit",
+			"PROJECTS",
+			"projects",
+			"PROJECTS",
+			"inline",
+			"png",
+			"textConte",
+			"addItem",
+			"innerHTML",
+			"var.*\\,$",
+			"var",
+			"var.*\\,$",
+			"showErro",
+			"object",
+			"toggleService",
+			"colourPage",
+			"listExtensions",
+			"openMyPage",
+			"stins",
+			"pusher",
+			"dimmed",
+			".divided",
+			"function sidebarToggle(e) {\n      $('.sidebar--menu').sidebar('toggle');\n    }",
+			"click",
+			"CSS3",
+			"licon",
+			"externa",
+			"name=\"top",
+			"#top",
+			"stackable",
+			"stack",
+			"h3",
+			"section",
+			" ",
+			"div",
+			"section",
+			"ui button",
+			"<span class=\"ui basic label\">",
+			"\"ui \"",
+			"ui ",
+			" labeled button wide",
+			"segment",
+			"stackoverflow",
+			"segment",
+			"labeled button",
+			"button",
+			"LinkedIn",
+			"</a>",
+			"&nbsp;",
+			"<i class",
+			"btn btn-default",
+			"<li>",
+			"fa fa-",
+			"div",
+			"nav",
+			"col-xs-11",
+			"col-xs-12",
+			"li",
+			">\n",
+			"col-xs-6",
+			"open",
+			" col-xs-6",
+			"open?",
+			"col-xs-10",
+			"ful",
+			"GithubUsername",
+			"first_name",
+			"last_name",
+			"fnContents",
+			"lnContents",
+			"Unmarshall",
+			"responseJSON",
+			"responseJson",
+			"responseJSON",
+			"responseJson",
+			"jsonEncode",
+			"JsonEncode",
+			"jsonEncode",
+			"lnUrl",
+			"fnUrl",
+			"StartTime",
+			"rememb",
+			"remember",
+			"bladeworks",
+			"X",
+			"x",
+			"getTile",
+			"getAverageColour",
+			"addPixels",
+			"pixels",
+			"addedPixels",
+			"getTile",
+			"getAverageColour",
+			"getRowTiles",
+			"rowMosaic",
+			"drawRowMosaic",
+			"getTile",
+			"getRowSv",
+			"getAverageColour",
+			"getTil",
+			"getRowTiles",
+			"drawRowMosaic",
+			"getRowSvgs",
+			"getTile",
+			"getAverageColour",
+			"drawRow",
+			"defer",
+			"y",
+			"drawColumn",
+			"addToCanvas",
+			"getImageDimensions",
+			"createImgFromSvg",
+			"getMosaic",
+			"getRowMosaic",
+			"nextColumn",
+			"step",
+			"column",
+			"forEach",
+			"addToCanvas",
+			"getImageDimensions",
+			"drawImage",
+			"ctx.put",
+			"app",
+			"new Prom",
+			"getTile",
+			"getaver",
+			"getAverageColour",
+			"addToC"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///media/iampeterbanjo/data/projects/golang/src/gogo-service":
+	{
+		"height": 128.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 140.0
+	},
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 218.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"output.godoc-output":
+	{
+		"height": 130.0
+	},
+	"output.gotools_syntax_errors":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"web/templates/page/index.html.eex"
+			],
+			[
+				"router.e",
+				"web/router.ex"
+			],
+			[
+				"tes",
+				"test.elm"
+			],
+			[
+				"selectionconte",
+				"selection-to-clipboard/content-script.js"
+			],
+			[
+				"selectionread",
+				"selection-to-clipboard/README.md"
+			],
+			[
+				"filt",
+				"site/filters.json"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"red",
+				"bootstrap/redis.go"
+			],
+			[
+				"par",
+				"parallel_data.go"
+			],
+			[
+				"jso",
+				"bootstrap/json_encode.go"
+			],
+			[
+				"ser",
+				"server1.go"
+			],
+			[
+				"main",
+				"main.go"
+			],
+			[
+				"serv",
+				"service/server.go"
+			],
+			[
+				"in",
+				"inmemrepository_test.go"
+			],
+			[
+				"inm",
+				"inmemrepository.go"
+			],
+			[
+				"typ",
+				"types.go"
+			],
+			[
+				"hand",
+				"handlers.go"
+			],
+			[
+				"cus",
+				"go-primer/custom-package-consumer.go"
+			],
+			[
+				"np",
+				"go-primer/npcs/npcs.go"
+			],
+			[
+				"go-package-consumer.go",
+				"go-package-consumer.go"
+			],
+			[
+				"mosa",
+				"mosaic/mosaic.html"
+			],
+			[
+				"app/inde",
+				"RMS/app/index.html"
+			],
+			[
+				"order-tak",
+				"RMS/scripts/partials/order-taking-screen.html"
+			],
+			[
+				"orderta",
+				"RMS/scripts/controllers/OrderTakingScreenController.js"
+			],
+			[
+				"ordercrea",
+				"RMS/scripts/controllers/OrderCreateScreenController.js"
+			],
+			[
+				"end",
+				"RMS/scripts/constants/endpoint.js"
+			],
+			[
+				"endp",
+				"RMS/scripts/constants/endpoint.js"
+			],
+			[
+				"variabl",
+				"RMS/lib/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss"
+			],
+			[
+				"variab",
+				"RMS/stylesheets/partials/_variables.scss"
+			],
+			[
+				"bower",
+				"lib/angular/bower.json"
+			],
+			[
+				"templ",
+				"rms_frontend/RMS/js/templates.js"
+			],
+			[
+				"grunt",
+				"rms_frontend/Gruntfile.js"
+			],
+			[
+				"i",
+				"rms_frontend/RMS/index.html"
+			],
+			[
+				"sty",
+				"ambassador-hub-21180/www/styleguide.html"
+			],
+			[
+				"lea",
+				"elixir/leap/leap.exs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
