@@ -1,0 +1,35 @@
+$font-title: 'Hind', sans-serif;
+$font-text:  'Inconsolata', monospace;
+
+
+// https://color.adobe.com/Saffron-umbrella-color-theme-9223211/edit/?copy=true
+$choco:      #24221F;
+$dark-grey:  #363F45;
+$grey:       #4B5F6D;
+$light-grey: #5E7C88;
+$yellow:     #FEB41C;
+
+// https://color.adobe.com/Color-Theme-3-color-theme-9225775/edit/?copy=true
+$french-blue: #0D1CFF;
+$baby-blue:   #0096FF;
+$white:       #FFFFFF;
+$neon-green:  #0DFFE1;
+
+// https://color.adobe.com/Lighthouse-2-color-theme-9225770/edit/?copy=true
+$cocoa-butter: #402C29;
+$sunrise:      #FFE55E;
+$green:        #214223;
+$indigo:       #231040;
+$purple:       #30236E;
+
+// milligram theme
+$color-initial:    $white;
+$color-primary:    $sunrise;
+$color-secondary:  $yellow;
+$color-tertiary:   #f4f5f6;
+$color-quaternary: #d1d1d1;
+$color-quinary:    #e1e1e1;
+
+// custom theme
+$background-body:   #000;
+$background-footer: $choco;

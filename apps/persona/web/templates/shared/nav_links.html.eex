@@ -1,3 +1,13 @@
-<a class="item" href="#about">About</a>
-<a class="item" href="#projects">Projects</a>
-<a class="item" href="/Persona">Persona</a>
+<nav role="navigation">
+  <ul role="menu">
+    <li role="menuitem">
+      <a href="#about">About</a>
+    </li>
+    <li role="menuitem">
+      <a href="#projects">Projects</a>
+    </li>
+    <li role="menuitem">
+      <a href="/Persona">Persona</a>
+    </li>
+  </ul>
+</nav>

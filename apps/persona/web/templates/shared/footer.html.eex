@@ -1,18 +1,14 @@
-<footer class="ui black inverted vertical footer stripe segment">
-  <div class="ui container">
-    <nav class="ui stackable four column grid">
-      <a class="column" href="#top">Back to top</a>
-
-      <%= render Persona.SharedView, "nav_links.html" %>
-    </nav>
-    <!-- /nav -->
+<footer>
+  <div class="row">
+    <div class="column">
+      <a href="#top">Back to top</a>
+    </div>
   </div>
-  <!-- /.ui.contaier -->
 
-  <div class="ui inverted section divider"></div>
+  <%= render Persona.SharedView, "nav_links.html" %>
 
-  <div class="ui container">
-    By Peter Banjo
+  <div class="row">
+    <div class="column">By Peter Banjo</div>
   </div>
   <!-- /.ui.container -->
 </footer>

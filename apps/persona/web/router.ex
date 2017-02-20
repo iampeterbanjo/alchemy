@@ -16,6 +16,7 @@ defmodule Persona.Router do
   scope "/", Persona do
     pipe_through :browser # Use the default browser stack
 
+    get "/typography", ProjectController, :typography
     get "/", ProjectController, :index
   end
 
