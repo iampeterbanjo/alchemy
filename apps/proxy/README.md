@@ -1,6 +1,6 @@
 # Proxy
 
-**TODO: Add description**
+Umbrella app proxy for cloud hosting environment to switch between multiple apps on different ports. Modeled after [Master proxy](https://github.com/wojtekmach/acme_bank/tree/master/apps/master_proxy)
 
 ## Installation
 

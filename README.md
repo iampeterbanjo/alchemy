@@ -1,4 +1,4 @@
-# Umbrella1
+# Portfolio
 
-**TODO: Add description**
+Phoenix umbrella app for **all the things**
 

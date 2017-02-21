@@ -1,5 +1,9 @@
 # Rumbl
 
+Application from Pragmatic programmer |> [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+
+## Getting started
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
