@@ -1,4 +1,4 @@
-# Portfolio
+# Alchemy
 
-Phoenix umbrella app for **all the things**
+Phoenix umbrella app as portfolio
 
